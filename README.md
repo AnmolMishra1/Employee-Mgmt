@@ -76,13 +76,6 @@ Follow the steps below to set up and run the Employee Management System on your 
 
 1.  **Prerequisites**: Ensure that you have PHP, Laravel, and a database system (e.g., MySQL) installed on your server.
 
-2.  **Clone the Repository**: Clone this repository to your server or local development environment.
-
-    ```bash
-    https://github.com/akikhossain/Employee-Management-System.git
-
-    ```
-
 3.  **Configuration**: Configure your database connection settings in the .env file.
 
 4.  **Install Dependencies**: Install the required PHP dependencies using Composer.
@@ -124,13 +117,4 @@ If you would like to contribute to this project, please follow our contribution 
 # License
 
 This project is licensed under the MIT License.
-
-# Support
-
-If you encounter any issues or have questions, please contact our support team at mr.akikhossain@gmail.com
-
-# Acknowledgments
-
-We would like to express our gratitude to the Laravel community for providing the robust framework that made this project possible.
-
-Thank you for considering the Employee Management System for your organization. We hope this system enhances your employee management processes and makes your workplace more efficient and organized.
+=
